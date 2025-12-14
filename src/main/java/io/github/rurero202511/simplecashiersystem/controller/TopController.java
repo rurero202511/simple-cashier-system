@@ -9,7 +9,7 @@ public class TopController {
     @GetMapping
     public String hello() {
 
-        // TODO 仮実装なので後で直す
+        // FIXME 仮実装なので後で直す
         return "hoge";
     }
 }
