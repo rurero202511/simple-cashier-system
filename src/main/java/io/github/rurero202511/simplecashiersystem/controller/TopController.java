@@ -9,7 +9,7 @@ public class TopController {
     @GetMapping
     public String hello() {
 
-        // FIXME 仮実装なので後で直す
+        // FIXME SCS-001 仮実装なので後で直す
         return "hoge";
     }
 }
