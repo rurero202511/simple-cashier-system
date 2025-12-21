@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>io.github.rurero202511</groupId>
-    <artifactId>simple-cashier-system</artifactId>
+    <artifactId>simple-cashier-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>simple-cashier-system</name>
+    <name>simple-cashier-web</name>
 
     <properties>
         <java.version>21</java.version>
