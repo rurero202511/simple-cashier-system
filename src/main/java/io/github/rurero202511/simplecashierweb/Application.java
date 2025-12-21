@@ -1,4 +1,4 @@
-package io.github.rurero202511.simplecashiersystem;
+package io.github.rurero202511.simplecashierweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
